@@ -1,5 +1,5 @@
 @component('mail::message')
-# Welcome to MyGram
+# Welcome to codeGram
 
 We are glad that you have joined us.
 
